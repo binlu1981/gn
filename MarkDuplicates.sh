@@ -1,0 +1,1 @@
+gatk --java-options "-Xmx40G" MarkDuplicates -I "${bam}" -O "${out}" -M "${outpth}/${metric}";

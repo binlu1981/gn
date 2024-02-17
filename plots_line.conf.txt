@@ -1,0 +1,59 @@
+type      = line
+thickness = 1.5
+
+<plot>
+
+<backgrounds>
+<background>
+color     = vvlgrey
+</background>
+</backgrounds>
+
+<axes>
+<axis>
+color     = lgrey_a2
+thickness = 1
+spacing   = 0.1r
+</axis>
+</axes>
+
+<rules>
+
+
+</rules>
+
+</plot>
+
+
+
+<plot>
+z       = 5
+max_gap = 1u
+file    = gccalc.shaxi.500k.txt
+color   = red
+#fill_color = red_a4
+min     = 0.3
+max     = 0.6
+r0      = 0.81r
+r1      = 0.99r
+orientation = out
+<backgrounds>
+<background>
+color     = vvlgrey
+</background>
+</backgrounds>
+
+<axes>
+<axis>
+color     = lgrey_a2
+thickness = 1
+spacing   = 0.1r
+</axis>
+</axes>
+
+<rules>
+
+
+</rules>
+</plot>
+

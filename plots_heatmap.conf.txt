@@ -1,0 +1,13 @@
+
+
+<plot>
+type  = heatmap
+file  = density_gene.500k.txt
+r1    = 0.61r
+r0    = 0.79r
+
+color = blues-9-seq
+color_mapping = 0
+
+</plot>
+

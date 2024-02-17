@@ -1,0 +1,223 @@
+<links>
+
+
+<link>
+z             = 50
+file          = gd_gn.collinearity.chr.pos.txt
+radius        = 0.6r
+bezier_radius = 0r
+color         = red_a2
+thickness     = 1
+ribbon = yes
+
+<rules>
+<rule>
+condition = var(chr1) eq "Pg1"
+color=set3-12-qual-1
+</rule>
+<rule>
+condition = var(chr1) eq "Pg2"
+color=set3-12-qual-2
+</rule>
+<rule>
+condition = var(chr1) eq "Pg3"
+color=set3-12-qual-3
+</rule>
+<rule>
+condition = var(chr1) eq "Pg4"
+color=set3-12-qual-4
+</rule>
+<rule>
+condition = var(chr1) eq "Pg5"
+color=set3-12-qual-5
+</rule>
+<rule>
+condition = var(chr1) eq "Pg6"
+color=set3-12-qual-6
+</rule>
+<rule>
+condition = var(chr1) eq "Pg7"
+color=set3-12-qual-7
+</rule>
+<rule>
+condition = var(chr1) eq "Pg8"
+color=set3-12-qual-8
+</rule>
+<rule>
+condition = var(chr1) eq "Pg9"
+color=set3-12-qual-9
+</rule>
+<rule>
+condition = var(chr1) eq "Pg10"
+color=set3-12-qual-10
+</rule>
+<rule>
+condition = var(chr1) eq "Pg11"
+color=set3-12-qual-11
+</rule>
+<rule>
+condition = var(chr1) eq "Pg12"
+color=set3-12-qual-12
+</rule>
+<rule>
+condition = var(chr1) eq "Pg13"
+color=set2-8-qual-1
+</rule>
+<rule>
+condition = var(chr1) eq "Pg14"
+color=set2-8-qual-2
+</rule>
+<rule>
+condition = var(chr1) eq "Pg15"
+color=set2-8-qual-3
+</rule>
+<rule>
+condition = var(chr1) eq "Pg16"
+color=set2-8-qual-4
+</rule>
+<rule>
+condition = var(chr1) eq "Pg17"
+color=set2-8-qual-5
+</rule>
+<rule>
+condition = var(chr1) eq "Pg18"
+color=set2-8-qual-6
+</rule>
+<rule>
+condition = var(chr1) eq "Pg19"
+color=set2-8-qual-7
+</rule>
+<rule>
+condition = var(chr1) eq "Pg20"
+color=set2-8-qual-8
+</rule>
+<rule>
+condition = var(chr1) eq "Pg21"
+color=accent-4-qual-1
+</rule>
+<rule>
+condition = var(chr1) eq "Pg22"
+color=accent-4-qual-2
+</rule>
+<rule>
+condition = var(chr1) eq "Pg23"
+color=accent-4-qual-3
+</rule>
+<rule>
+condition = var(chr1) eq "Pg24"
+color=accent-4-qual-4
+</rule>
+</rules>
+</link>
+
+<link>
+z             = 40
+file          = pv_gn.collinearity.chr.pos.txt
+radius        = 0.6r
+bezier_radius = 0r
+color         = vlblue
+thickness     = 1
+ribbon = yes
+
+<rules>
+<rule>
+condition = var(chr1) eq "Pg1"
+color=set3-12-qual-1
+</rule>
+<rule>
+condition = var(chr1) eq "Pg2"
+color=set3-12-qual-2
+</rule>
+<rule>
+condition = var(chr1) eq "Pg3"
+color=set3-12-qual-3
+</rule>
+<rule>
+condition = var(chr1) eq "Pg4"
+color=set3-12-qual-4
+</rule>
+<rule>
+condition = var(chr1) eq "Pg5"
+color=set3-12-qual-5
+</rule>
+<rule>
+condition = var(chr1) eq "Pg6"
+color=set3-12-qual-6
+</rule>
+<rule>
+condition = var(chr1) eq "Pg7"
+color=set3-12-qual-7
+</rule>
+<rule>
+condition = var(chr1) eq "Pg8"
+color=set3-12-qual-8
+</rule>
+<rule>
+condition = var(chr1) eq "Pg9"
+color=set3-12-qual-9
+</rule>
+<rule>
+condition = var(chr1) eq "Pg10"
+color=set3-12-qual-10
+</rule>
+<rule>
+condition = var(chr1) eq "Pg11"
+color=set3-12-qual-11
+</rule>
+<rule>
+condition = var(chr1) eq "Pg12"
+color=set3-12-qual-12
+</rule>
+<rule>
+condition = var(chr1) eq "Pg13"
+color=set2-8-qual-1
+</rule>
+<rule>
+condition = var(chr1) eq "Pg14"
+color=set2-8-qual-2
+</rule>
+<rule>
+condition = var(chr1) eq "Pg15"
+color=set2-8-qual-3
+</rule>
+<rule>
+condition = var(chr1) eq "Pg16"
+color=set2-8-qual-4
+</rule>
+<rule>
+condition = var(chr1) eq "Pg17"
+color=set2-8-qual-5
+</rule>
+<rule>
+condition = var(chr1) eq "Pg18"
+color=set2-8-qual-6
+</rule>
+<rule>
+condition = var(chr1) eq "Pg19"
+color=set2-8-qual-7
+</rule>
+<rule>
+condition = var(chr1) eq "Pg20"
+color=set2-8-qual-8
+</rule>
+<rule>
+condition = var(chr1) eq "Pg21"
+color=accent-4-qual-1
+</rule>
+<rule>
+condition = var(chr1) eq "Pg22"
+color=accent-4-qual-2
+</rule>
+<rule>
+condition = var(chr1) eq "Pg23"
+color=accent-4-qual-3
+</rule>
+<rule>
+condition = var(chr1) eq "Pg24"
+color=accent-4-qual-4
+</rule>
+</rules>
+</link>
+
+
+</links>

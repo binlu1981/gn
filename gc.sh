@@ -1,0 +1,1 @@
+python GCcalc.py -f genome.chr.fa -w 500000 -s 500000

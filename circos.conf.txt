@@ -1,0 +1,33 @@
+show_links      = yes
+#show_highlights = yes
+#show_text       = yes
+show_heatmaps   = yes
+#show_scatter    = yes
+#show_histogram  = yes
+show_line    = yes
+
+<<include karyotype.and.layout.conf>>
+
+
+<plots>
+
+<<include plots_line.conf>>
+#<<include plots_histogram.conf>>
+<<include plots_heatmap.conf>>
+#<<include plots_text.conf>>
+
+</plots>
+
+#<<include highlights.conf>>
+<<include ideogram.conf>>
+<<include ticks.conf>>
+<<include links.conf>>
+
+################################################################
+
+<image>
+<<include image.conf>>
+angle_offset* = -82
+</image>
+<<include colors_fonts_patterns.conf>>
+<<include housekeeping.conf>>

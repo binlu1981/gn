@@ -1,0 +1,1 @@
+raxmlHPC -f a -x 12345 -p 12345 -# 1000 -m GTRGAMMA -s concat.phy -n concat -o Gekko_japonicus -T 1

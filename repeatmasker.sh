@@ -1,0 +1,1 @@
+RepeatMasker -pa 10 -e ncbi -gff -nolow -no_is -norna -qq -dir repeatmask genome.fa

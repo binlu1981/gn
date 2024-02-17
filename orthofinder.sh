@@ -1,0 +1,1 @@
+orthofinder -f pep -t 10

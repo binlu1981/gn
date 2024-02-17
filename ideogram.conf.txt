@@ -1,0 +1,22 @@
+<ideogram>
+<spacing>
+default = 0.005r
+<pairwise Pv19 Pg1>
+spacing = 10r
+</pairwise>
+</spacing>
+
+radius           = 0.90r
+thickness        = 30p
+fill             = yes
+stroke_color     = dgrey
+stroke_thickness = 2p
+
+show_label       = yes
+label_font       = default
+label_radius     = 1r+110p
+label_center = yes
+label_size       = 40
+label_parallel   = yes
+label_format = eval(sprintf("%s",var(label))) 
+</ideogram>

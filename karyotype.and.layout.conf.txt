@@ -1,0 +1,4 @@
+karyotype = karyotype.gn.txt,karyotype.gd.txt,karyotype.phrvl.txt
+chromosomes_order_by_karyotype = yes
+chromosomes_units              = 1000000
+chromosomes_display_default    = yes
